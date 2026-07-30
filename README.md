@@ -1,1 +1,1 @@
-# odin-recipes
+This will be my first HTML webpage! I am going to create a basic recipe website. It will not be pretty but the goal is to practice the fundamental concepts of HTML that I have learned so far and solidy or find cracks in them.
